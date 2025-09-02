@@ -240,25 +240,12 @@ pip install -r requirements-dev.txt
 python -m pytest tests/
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Research Foundation**: Built upon state-of-the-art VAE and time series forecasting research
 - **Data Source**: Kaggle Store Sales Time Series Forecasting competition
 - **Open Source**: Leverages TensorFlow, PyTorch, and scikit-learn communities
 - **Academic Support**: Inspired by recent advances in generative modeling for time series
-
-## 📞 Contact
-
-**Project Lead**: [Your Name]  
-**Email**: [your.email@domain.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
-
----
 
 <div align="center">
 
